@@ -8,7 +8,7 @@ function RecipeList({ recipes, deleteRecipe }) {
 
   /*Create a table row for each recipe in the list. Put the rows in an array */
   const tableRows = recipes.map((recipe, index) => {
-    return <RecipeRow key={index} index={index} recipe={recipe} deleteRecipe={()=>deleteRecipe(index)}/>
+    return <RecipeRow key={index} recipe={recipe} deleteRecipe={()=>deleteRecipe(index)}/>
   });
 
   return (

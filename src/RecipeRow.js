@@ -1,6 +1,6 @@
 import React from "react";
 
-function RecipeRow({ index, recipe, deleteRecipe }) {
+function RecipeRow({recipe, deleteRecipe }) {
   return (
     <tr>
       <td>{recipe.name}</td>

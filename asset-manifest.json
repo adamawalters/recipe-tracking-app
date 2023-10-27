@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.80223866.chunk.css",
-    "main.js": "/static/js/main.d23e2ec2.chunk.js",
-    "main.js.map": "/static/js/main.d23e2ec2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e51d1157.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e51d1157.js.map",
-    "static/js/2.a3eb11fc.chunk.js": "/static/js/2.a3eb11fc.chunk.js",
-    "static/js/2.a3eb11fc.chunk.js.map": "/static/js/2.a3eb11fc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d64e9747186e105d8cfefc4b9a8b42ae.js": "/precache-manifest.d64e9747186e105d8cfefc4b9a8b42ae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.80223866.chunk.css.map": "/static/css/main.80223866.chunk.css.map",
-    "static/js/2.a3eb11fc.chunk.js.LICENSE.txt": "/static/js/2.a3eb11fc.chunk.js.LICENSE.txt"
+    "main.css": "/recipe-tracking-app/static/css/main.80223866.chunk.css",
+    "main.js": "/recipe-tracking-app/static/js/main.d23e2ec2.chunk.js",
+    "main.js.map": "/recipe-tracking-app/static/js/main.d23e2ec2.chunk.js.map",
+    "runtime-main.js": "/recipe-tracking-app/static/js/runtime-main.457e4dde.js",
+    "runtime-main.js.map": "/recipe-tracking-app/static/js/runtime-main.457e4dde.js.map",
+    "static/js/2.a3eb11fc.chunk.js": "/recipe-tracking-app/static/js/2.a3eb11fc.chunk.js",
+    "static/js/2.a3eb11fc.chunk.js.map": "/recipe-tracking-app/static/js/2.a3eb11fc.chunk.js.map",
+    "index.html": "/recipe-tracking-app/index.html",
+    "precache-manifest.34178c7839ccd974b1e23ce0ece3aa12.js": "/recipe-tracking-app/precache-manifest.34178c7839ccd974b1e23ce0ece3aa12.js",
+    "service-worker.js": "/recipe-tracking-app/service-worker.js",
+    "static/css/main.80223866.chunk.css.map": "/recipe-tracking-app/static/css/main.80223866.chunk.css.map",
+    "static/js/2.a3eb11fc.chunk.js.LICENSE.txt": "/recipe-tracking-app/static/js/2.a3eb11fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e51d1157.js",
+    "static/js/runtime-main.457e4dde.js",
     "static/js/2.a3eb11fc.chunk.js",
     "static/css/main.80223866.chunk.css",
     "static/js/main.d23e2ec2.chunk.js"
